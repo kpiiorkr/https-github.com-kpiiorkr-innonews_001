@@ -1,0 +1,7 @@
+{
+  "name": "INNO NEWS - Innovative Insights",
+  "description": "A high-end news portal for the Korea Process Innovation Association, featuring professional design, admin-managed articles, video galleries, and interactive reporting tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
